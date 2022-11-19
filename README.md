@@ -1,4 +1,4 @@
-![welcome little one!](https://user-images.githubusercontent.com/58857535/132092322-17bc0e05-9465-4ab9-830b-0cd5de5cf3f8.png)
+![welcome little one!]
 
 <h1 align="center">Hi 👋, I'm Dinh Huy</h1>
 <h3 align="center">A passionate backend developer from Viet Nam</h3>
