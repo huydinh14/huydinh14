@@ -1,9 +1,13 @@
+<div align="center">
+<img src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47lef2wl3xvikytm1exfod0qr0xdn990k1ag4vin45&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
+</div> 
+
 <h1 align="center">Hi 👋, I'm Dinh Huy</h1>
-<h3 align="center">A passionate backend developer from Viet Nam</h3>
+<h3 align="center">A FullStack Developer from Viet Nam</h3>
 
 - 🌱 I’m currently learning **IUH - Industrial University of Ho Chi Minh City**
 
-- 📫 How to reach me **huydinhse@gmail.com**
+- 📫 Gmail: **huydinhse@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huydinh14&label=Profile%20views&color=0e75b6&style=flat" alt="huydinh14" /> </p>
