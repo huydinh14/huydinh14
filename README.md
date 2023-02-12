@@ -49,13 +49,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/huydinh14/huydinh14/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/huydinh14/huydinh14/blob/output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://raw.githubusercontent.com/huydinh14/huydinh14/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/huydinh14/count.svg?"  />
