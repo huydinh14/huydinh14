@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 # 💫 About Me:
 🌱 I’m currently learning IUH - Industrial University of Ho Chi Minh City<br><br>📫 How to reach me huydinhse@gmail.com<br><br>⚡ Fun fact I think i am funny
 
