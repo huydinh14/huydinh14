@@ -1,4 +1,5 @@
-<h2 align="center">Hi 👋, I'm Dinh Huy<br>A FullStack Developer from Viet Nam</h2>
+<h2 align="center">Hi 👋, I'm Dinh Huy<br>A FullStack Developer From Viet Nam</h2>
+<h3 align="center"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="15" alt="gmail logo"/> huydinhse@gmail.com</h3>
 
 ###
 
@@ -34,9 +35,6 @@
 ###
 
 <div align="left">
-  <a href="huydinhse@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/huydinhse/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
